@@ -7,7 +7,7 @@ public class NewtonRaphson {
 
     // Cargar la biblioteca nativa
     static {
-        System.loadLibrary("NewtonRaphson"); // Nombre de la biblioteca C (sin extensión)
+        System.loadLibrary("numerico"); // Nombre de la biblioteca C (sin extensión)
     }
 
     public static void main(String[] args) {
