@@ -1,5 +1,3 @@
-
-
 public class NewtonRaphson {
 
     // Declaración del método nativo
